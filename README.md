@@ -5,7 +5,7 @@
 run .\Powershell\build.ps1
 
 ## Download from PowerShell Gallery
-you can download it from the PowerShell Gallery
+need to publish to powershell gallery
 [psgallery]()
 ## Notes
-this module was build on this great component 
+this module was build on this great component https://github.com/CookPete/react-player
