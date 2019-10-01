@@ -34,7 +34,7 @@ steps:
     gitHubConnection: 'github.com_AlonGvili'
     tagSource: userSpecifiedTag
     tag: 'v.1.0.$(Build.BuildId)'
-    isPreRelease: true
+    isPreRelease: false
     changeLogType: issueBased
     title: UniversalDashboard.VideoPlayer
 
