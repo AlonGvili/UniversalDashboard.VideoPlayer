@@ -1,4 +1,5 @@
 # UniversalDashboard.VideoPlayer
+[![Build Status](https://dev.azure.com/alon-gvili/UniversalDashboard.VideoPlayer/_apis/build/status/AlonGvili.UniversalDashboard.VideoPlayer?branchName=master)](https://dev.azure.com/alon-gvili/UniversalDashboard.VideoPlayer/_build/latest?definitionId=8&branchName=master)
 
 ![]()
 ## Build the module
