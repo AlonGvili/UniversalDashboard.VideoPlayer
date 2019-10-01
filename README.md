@@ -1,7 +1,7 @@
 # UniversalDashboard.VideoPlayer
-[![Build Status](https://dev.azure.com/alon-gvili/UniversalDashboard.VideoPlayer/_apis/build/status/AlonGvili.UniversalDashboard.VideoPlayer?branchName=master)](https://dev.azure.com/alon-gvili/UniversalDashboard.VideoPlayer/_build/latest?definitionId=8&branchName=master)
+![Azure DevOps builds](https://img.shields.io/azure-devops/build/alon-gvili/10acca60-bb90-4c65-a5a8-0b89de6bfc77/8?color=%232560E0&label=AZURE%20PIPELINES&logo=Azure%20Pipelines&style=for-the-badge)
 
-![]()
+
 ## Build the module
 run .\Powershell\build.ps1
 
